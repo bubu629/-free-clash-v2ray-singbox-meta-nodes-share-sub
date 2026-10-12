@@ -9,7 +9,7 @@
 > - 🛡️ **长效稳定**：专属免费套餐支持周期重置，稳定低延迟
 > 
 > 🔗 **快速注册官网**：[点击进入官网注册](https://haovpn.xyz)  
-> 📥 **一键体验订阅**：`https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819`
+> 📥 **一键体验订阅**：`https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`
 ---
 
 # 🌐 Free High-Speed Proxy Nodes & Developer Rewards (Daily Updated)
@@ -29,7 +29,7 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 > 
 > 🔗 **Official Portal**: [Register at haovpn.xyz](https://haovpn.xyz) *(Use Invite Code: `cbT7Rfxg`)*[cite: 3]  
 > 📥 **Direct Test Subscription**:  
-> `https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819`[cite: 1]
+> `https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
 ---
 
