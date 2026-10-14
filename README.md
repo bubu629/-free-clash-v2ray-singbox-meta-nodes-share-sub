@@ -3,7 +3,7 @@
 > ### 🎁 开发者专属福利：免费领取 200G 高速体验节点
 > 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 > 为了方便开发者快速拉取海外依赖、测试 API 与流畅访问 GitHub，现开放免费高速通道：
-> 
+> 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 > - ⚡ **高速流量**：注册即赠 **200 GB** 高速不限速流量
 > - 🚀 **开箱即用**：支持 Clash / v2ray / Shadowrocket 等全平台一键导入
 > - 🛡️ **长效稳定**：专属免费套餐支持周期重置，稳定低延迟
@@ -11,13 +11,13 @@
 > 🔗 **快速注册官网**：[点击进入官网注册](https://haovpn.xyz)  
 > 📥 **一键体验订阅**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`
 ---如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 # 🌐 Free High-Speed Proxy Nodes & Developer Rewards (Daily Updated)
 
 High-speed, stable, and uncapped proxy nodes tailored for developers, researchers, and global network testing. Seamlessly compatible with **Clash, Sing-box, V2Ray, Xray, and Shadowrocket**[cite: 1, 3].
 
 ---
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 > ### 🎁 Exclusive Developer Offer: Claim 200 GB Free High-Speed Traffic
 > 
 > Get instant, unlimited high-speed bandwidth for package fetching, API testing, and smooth global connectivity[cite: 1]:
@@ -40,7 +40,7 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 3. **Earn Rewards**: Navigate to "Affiliate / Invite" in the dashboard to grab your exclusive referral link and start earning cash commissions[cite: 3]!
 
 ---
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 <details>
 <summary>🔍 Global Search & Keyword Index (Click to expand)</summary>
 
