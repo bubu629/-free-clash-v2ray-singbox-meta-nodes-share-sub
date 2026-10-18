@@ -18,7 +18,8 @@
 High-speed, stable, and uncapped proxy nodes tailored for developers, researchers, and global network testing. Seamlessly compatible with **Clash, Sing-box, V2Ray, Xray, and Shadowrocket**[cite: 1, 3].
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
----
+---> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 > ### 🎁 Exclusive Developer Offer: Claim 200 GB Free High-Speed Traffic
 > 
@@ -33,7 +34,8 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 > 📥 **Direct Test Subscription**:  
 > `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
----
+---> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 
 ## 🛠️ Quick Start Guide
 
